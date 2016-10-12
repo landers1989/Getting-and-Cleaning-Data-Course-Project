@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 
 
-Experiment Background Information:
+##Experiment Background Information:
 
 Human Activity Recognition Using Smartphones Dataset
 
