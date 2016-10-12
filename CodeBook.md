@@ -11,12 +11,12 @@ A full description is available at the site where the data was obtained: http://
 ###activity : the activity performed by the participant
 Below are the 6 types of activity:
 
-Walking
-Walking_Upstairs
-Walking_Downstairs
-Sitting 
-Standing
-Laying
+1. Walking
+2. Walking_Upstairs
+3. Walking_Downstairs
+4. Sitting 
+5. Standing
+6. Laying
 
 ###Participant : the volunteer subject who performed the activity 
 There are 30 participants numbered 1 - 30
