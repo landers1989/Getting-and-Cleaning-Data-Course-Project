@@ -68,6 +68,7 @@ Below is a list of the variables (feature columns) included in the tidy dataset.
 
 ##Analysis
 The tidy data set displays the average of each variable for each activity and each participant. 
+
 Observations: 180 (30 participants X 6 activites)
 
 
